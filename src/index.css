@@ -1,0 +1,8 @@
+:root {
+  --p-color-bg-fill-brand: #d24f37; /* nền primary */
+  --p-color-bg-fill-brand-hover: #b83e2a; /* hover */
+  --p-color-bg-fill-brand-active: #9e3624; /* click */
+  --p-color-text-on-fill-brand: #ffffff; /* chữ trắng */
+  --p-color-border-brand: #d24f37; /* viền */
+  --p-color-icon-on-fill-brand: #ffffff; /* icon */
+}
