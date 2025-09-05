@@ -22,17 +22,7 @@ It demonstrates skills in **form handling, validation, UI components, and state 
 - Custom validation rules (e.g., at least one option is required)
 - Integration with **Polaris** UI (TextField, Button, Toast, etc.)
 - Loading state on form submission
-- Toast notification on success (e.g. _“Created successfully”_)
-
----
-
-## 📂 Project Structure
-
-src/
-├── components/ # Reusable UI components
-├── libs/ # (constants)
-├── pages/ # Page-level components
-└── App.tsx # Entry point
+- Toast notification on success
 
 ---
 
@@ -61,16 +51,16 @@ npm run dev
 yarn dev
 ```
 
+---
+
 ## 📌 Notes
 
-Notes
+- Minimum 1 option is required in the form (validation rule).
+- The form resets after successful submission.
+- Project is intended to demonstrate coding practices, not production-ready design.
 
-Minimum 1 option is required in the form (validation rule).
-
-The form resets after successful submission.
-
-Project is intended to demonstrate coding practices, not production-ready design.
+---
 
 ## 👤 Author
 
-NguyenCaoTri – [nguyencaotri.dev@gmail.com]
+NguyenCaoTri – nguyencaotri.dev@gmail.com
